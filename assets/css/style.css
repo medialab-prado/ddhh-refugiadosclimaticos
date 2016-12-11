@@ -76,7 +76,10 @@ button {
 	top:5px;
 }
 .tableauPlaceholder{
-	height:400px;
+	height:800px;
+}
+#desigualdad {
+	width: 100%;
 }
 	
 
